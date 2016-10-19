@@ -1,0 +1,5 @@
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\SortingWithWhileLoop\SortingWithWhileLoop\bin\Debug\SortingWithWhileLoop.exe.config
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\SortingWithWhileLoop\SortingWithWhileLoop\bin\Debug\SortingWithWhileLoop.exe
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\SortingWithWhileLoop\SortingWithWhileLoop\bin\Debug\SortingWithWhileLoop.pdb
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\SortingWithWhileLoop\SortingWithWhileLoop\obj\Debug\SortingWithWhileLoop.exe
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\SortingWithWhileLoop\SortingWithWhileLoop\obj\Debug\SortingWithWhileLoop.pdb
